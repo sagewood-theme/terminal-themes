@@ -1,0 +1,18 @@
+[colors.primary]
+background = "#2d3833"
+foreground = "#d2ded7"
+dim_foreground = "#677a70"
+
+[colors.normal]
+black   = "#222a26"
+red     = "#d99c82"
+green   = "#a8b59b"
+yellow  = "#d6caa3"
+blue    = "#8da7b3"
+magenta = "#caacc2"
+cyan    = "#9bb5b1"
+white   = "#d2ded7"
+
+[colors.selection]
+text = "CellForeground"
+background = "#3b4a43"
